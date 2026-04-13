@@ -1,0 +1,40 @@
+Hizmetlerimiz
+
+- Proje Yönetimi ve Danışmanlık
+- Veritabanı Hizmetleri
+    -Veritabanı Kurulumu
+    -Veritabanı Performans İyileştirme
+    -Veritabanı Periyodik Bakım
+- Destek ve Eğitim Hizmetleri
+    -Outsource Bakım Hizmetleri
+    -Periyodik Bakım Hizmetleri
+    -Logo Eğitim Hizmetleri
+- Yazılım Geliştirme
+
+
+
+Ürünlerimiz
+
+- Erp Çözümleri
+    - Logo J Platform
+    - Logo Tiger 3 Enterprise
+    - Logo Tiger 3 Wings
+    - Logo Tiger 3
+    - Logo Go 3
+    - Logo Go Wings
+- İk Çözümleri
+    - Logo J Hr
+    - Logo Bordro Plus
+- Crm Çözümleri
+    - Logo Crm
+- E-Devlet
+    - E-Fatura
+    - E-Arşiv
+    - E-Defter
+    - E-Mütabakat
+- İş Zekası Çözümleri
+    - Logo Mind İnsight
+    - Logo Ming Navigatör
+    - Power Bi
+- İş Akış Çözümleri
+    - Logo Flow
