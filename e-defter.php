@@ -15,7 +15,7 @@
                     <li><a href="index.php">Ana Sayfa</a></li>
                     <li>Bpm İş Akış Yönetimi</li>
                 </ul>
-            </div>
+            </div> 
             <div class="text">
                 <div class="icon"><i class="icon-arrow-up-right"></i></div>
                 <p>Her işletmenin ihtiyacının farklı olduğunu biliyor, iş süreçlerinize özel çözümler tasarlayarak verimliliği artıran güçlü sistemler kuruyoruz.</p>
